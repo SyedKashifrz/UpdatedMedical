@@ -1,6 +1,0 @@
-streamlit
-pytesseract
-Pillow
-PyMuPDF
-python-dotenv
-google-generativeai
