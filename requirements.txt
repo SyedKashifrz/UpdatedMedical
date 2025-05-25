@@ -1,0 +1,8 @@
+streamlit
+easyocr
+torch
+Pillow
+PyMuPDF
+numpy
+python-dotenv
+google-generativeai
